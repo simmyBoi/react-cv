@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Work Experience",
+        "url": "work-experience"
+    },
+    {
+        "id": 2,
+        "title": "Education",
+        "url": "education"
+    },
+    {
+        "id": 3,
+        "title": "Skills",
+        "url": "skills"
+    },
+    {
+        "id": 4,
+        "title": "Courses",
+        "url": "courses"
+    },
+    {
+        "id": 6,
+        "title": "Contact",
+        "url": "contact"
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "juniorDeveloper": {
+            "title": "JUNIOR DEVELOPER",
+            "date": "THE BUILDING COMPANY 1 JULY 2023 - PRESENT",
+            "data": [
+                {
+                    "id": 1,
+                    "title": "eCommerce Management (Magento)",
+                    "desc": "Assisted in the management and maintenance of eCommerce platforms using Magento"
+                },
+                {
+                    "id": 2,
+                    "title": "Front-End Development for eCommerce",
+                    "desc": "Developed and enhanced eCommerce using HTML, CSS, and JavaScript. Utilized Magento's front-end features to create engaging and user-friendly online interfaces."
+                },
+                {
+                    "id": 3,
+                    "title": "Full-Stack Development",
+                    "desc": "Designed and implemented full-stack solutions for external and internal web applications using Node.js."
+                },
+                {
+                    "id": 4,
+                    "title": "WordPress Development (Beginner)",
+                    "desc": "Created a website using WordPress"
+                },
+                {
+                    "id": 5,
+                    "title": "Internet Information Services (IIS)",
+                    "desc": "Managed and configured IIS to support web applications."
+                }
+            ]
+
+        },
+        "intern": {
+            "title": "ECOMMERCE & MARKETING INTERN",
+            "date": "THE BUILDING COMPANY 1 JULY 2022 - 30 JUNE 2023",
+            "data": [
+                {
+                    "id": 1,
+                    "desc": "Assisted in the management and maintenance of eCommerce platforms using Magento"
+                },
+                {
+                    "id": 2,
+                    "desc": "Front-end development for eCommerce using HTML, CSS, JavaScript, as well as Magento front-end features. Creating web icons using Canva"
+                },
+                {
+                    "id": 3,
+                    "desc": "Marketing: basic design work using Canva, managing internal corporate events, utilizing SurveyMonkey for internal surveys, assisting with social media (Facebook)"
+                }
+            ]
+        }
+    }
+]
