@@ -1,25 +1,25 @@
 [
     {
         "id": 1,
-        "imgSrc": "/cv/media/gifs/tel.gif",
+        "imgSrc": "/react-cv/media/gifs/tel.gif",
         "data": "+27 79 241 9594",
         "href": "tel:+27 79 241 9594"
     },
     {
         "id": 2,
-        "imgSrc": "/cv/media/gifs/email.gif",
+        "imgSrc": "/react-cv/media/gifs/email.gif",
         "data": "simeon.darling@alumni.uct.ac.za",
         "href": "mailto:simeon.darling@alumni.uct.ac.za"
     },
     {
         "id": 3,
-        "imgSrc": "/cv/media/gifs/gmail.gif",
+        "imgSrc": "/react-cv/media/gifs/gmail.gif",
         "data": "simeondarling@gmail.com",
         "href": "mailto:simeondarling@gmail.com"
     },
     {
         "id": 4,
-        "imgSrc": "/cv/media/images/github.png",
+        "imgSrc": "/react-cv/media/images/github.png",
         "data": "simmyBoi",
         "href": "https://github.com/simmyBoi"
     }

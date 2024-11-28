@@ -4,27 +4,27 @@
         "title": "The Complete 2023 Web Development Bootcamp",
         "status": "Complete",
         "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
-        "imageSrc": "/cv/media/images/bootcamp.jpg"
+        "imageSrc": "/react-cv/media/images/bootcamp.jpg"
     },
     {
         "id": 2,
         "title": "React 18 Course 2024 - Learn React JS the fast way",
         "status": "Complete",
         "link": "https://www.udemy.com/course/master-react/",
-        "imageSrc": "/cv/media/images/react.jpg"
+        "imageSrc": "/react-cv/media/images/react.jpg"
     },
     {
         "id": 3,
         "title": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
         "status": "In progress",
         "link": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/",
-        "imageSrc": "/cv/media/images/mern.jpg"
+        "imageSrc": "/react-cv/media/images/mern.jpg"
     },
     {
         "id": 4,
         "title": "JavaScript Algorithms and Data Structures Masterclass",
         "status": "In progress",
         "link": "https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/",
-        "imageSrc": "/cv/media/images/algorithms.jpg"
+        "imageSrc": "/react-cv/media/images/algorithms.jpg"
     }
 ]

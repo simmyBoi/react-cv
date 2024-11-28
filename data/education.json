@@ -6,20 +6,20 @@
             "institution": "UNIVERSITY OF CAPE TOWN (UCT)",
             "majors": "Focus: Economics, Marketing, & Project Management",
             "distinctions": "Distinction: Applied Multivariate Data Analysis (Final Year)",
-            "imageSrc": "/cv/media/images/uct.jpg"
+            "imageSrc": "/react-cv/media/images/uct.jpg"
         },
         "postgrad": {
             "year": "2021",
             "title": "POSTGRADUATE DIPLOMA IN MANAGEMENT IN MARKETING",
             "institution": "UNIVERSITY OF CAPE TOWN (UCT)",
             "distinctions": "Distinctions: Digital Marketing, Integrated Marketing Communications, Team Communication and Management, Intercultural Communication and Diversity",
-            "imageSrc": "/cv/media/images/uct.jpg"
+            "imageSrc": "/react-cv/media/images/uct.jpg"
         },
         "bootcamp": {
             "year": "In progress",
             "title": "Stellenbosch University Web Development Bootcamp in Partnership with HyperionDev",
             "portfolio": "https://www.hyperiondev.com/portfolio/SD24100015650/",
-            "imageSrc": "/cv/media/images/stellies.png"
+            "imageSrc": "/react-cv/media/images/stellies.png"
         }
     }
 ]

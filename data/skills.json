@@ -1,21 +1,21 @@
 [
     {
        "frontend": [
-            {"title":"HTML", "imageSrc": "/cv/media/icons/html.png"}, 
-            {"title":"CSS", "imageSrc": "/cv/media/icons/css.png"}, 
-            {"title":"JavaScript", "imageSrc": "/cv/media/icons/javascript.png"}, 
-            {"title":"Bootstrap", "imageSrc": "/cv/media/icons/bootstrap.png"}, 
-            {"title":"React (beginner)", "imageSrc": "/cv/media/icons/react.png"}
+            {"title":"HTML", "imageSrc": "/react-cv/media/icons/html.png"}, 
+            {"title":"CSS", "imageSrc": "/react-cv/media/icons/css.png"}, 
+            {"title":"JavaScript", "imageSrc": "/react-cv/media/icons/javascript.png"}, 
+            {"title":"Bootstrap", "imageSrc": "/react-cv/media/icons/bootstrap.png"}, 
+            {"title":"React (beginner)", "imageSrc": "/react-cv/media/icons/react.png"}
         ],
        "backend": [
-            {"title": "Node.js", "imageSrc": "/cv/media/icons/node.jpg"}, 
-            {"title": "Express.js", "imageSrc": "/cv/media/icons/express.png"},  
-            {"title": "Experience with various npm packages", "imageSrc": "/cv/media/icons/npm.png"},  
-            {"title": "SQL (Queries)", "imageSrc": "/cv/media/icons/sql.png"}
+            {"title": "Node.js", "imageSrc": "/react-cv/media/icons/node.jpg"}, 
+            {"title": "Express.js", "imageSrc": "/react-cv/media/icons/express.png"},  
+            {"title": "Experience with various npm packages", "imageSrc": "/react-cv/media/icons/npm.png"},  
+            {"title": "SQL (Queries)", "imageSrc": "/react-cv/media/icons/sql.png"}
         ],
        "cms": [
-            {"title": "Magento", "imageSrc": "/cv/media/icons/magento.png"},  
-            {"title": "WordPress (beginner)", "imageSrc": "/cv/media/icons/wordpress.png"}
+            {"title": "Magento", "imageSrc": "/react-cv/media/icons/magento.png"},  
+            {"title": "WordPress (beginner)", "imageSrc": "/react-cv/media/icons/wordpress.png"}
         ]
     }
 ]

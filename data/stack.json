@@ -1,13 +1,13 @@
 [
-    "/cv/media/icons/html.png", 
-    "/cv/media/icons/css.png", 
-    "/cv/media/icons/javascript.png", 
-    "/cv/media/icons/bootstrap.png", 
-    "/cv/media/icons/react.png",
-    "/cv/media/icons/node.jpg", 
-    "/cv/media/icons/express.png",  
-    "/cv/media/icons/npm.png",  
-    "/cv/media/icons/sql.png",
-    "/cv/media/icons/magento.png",  
-    "/cv/media/icons/wordpress.png"
+    "/react-cv/media/icons/html.png", 
+    "/react-cv/media/icons/css.png", 
+    "/react-cv/media/icons/javascript.png", 
+    "/react-cv/media/icons/bootstrap.png", 
+    "/react-cv/media/icons/react.png",
+    "/react-cv/media/icons/node.jpg", 
+    "/react-cv/media/icons/express.png",  
+    "/react-cv/media/icons/npm.png",  
+    "/react-cv/media/icons/sql.png",
+    "/react-cv/media/icons/magento.png",  
+    "/react-cv/media/icons/wordpress.png"
 ]
